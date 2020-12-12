@@ -1,4 +1,4 @@
-# IT1600
+# IT1600 Final Project
 
 Title of the tutorial.
 The author of the tutorial.
