@@ -1,15 +1,16 @@
 # IT1600 Final Project
 
-Title of the tutorial.
-The author of the tutorial.
-A brief summary of the purpose and content of the tutorial.
-A description of the target audience for the tutorial.
+### My Information:  
+* Name: Yang Liu
+* ID: 14247300
+* Date: 11/12/2020
+### Computer Installation Tutorial  
+### This is a computer assembly tutorial  
+### From parts to desktop.  
+### This tutorial is for those who want to build their own computer  
 
-# Header one
-## Header two
-### Header three
-#### Header four
-##### Header five
+
+
 
 _underscore this sentence_  
 *italicized this sentence*  
@@ -26,14 +27,6 @@ Here's the link to [Mizzou tiger Logo][tiger]
 >Blockquotes this sentence and paragraph
 >The University of Missouri (Mizzou, MU, or Missouri) is a public land-grant research university in Columbia, Missouri. It is Missouri's largest university and the flagship of the four-campus University of Missouri System. Founded in 1839, it was the first public university west of the Mississippi River. It is a member of the Association of American Universities.
 
-My Information:  
-* Name: Yang Liu
-* ID: 14247300
-* Date: 11/12/2020
-* hobby:
-  * Games
-  * Pinao
-  * Basketbal
 
 Here's all the course I enroll this semester:  
 1. IT 1600
